@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T23:17:35 EET" name="Default suite" finished-at="2023-02-16T23:18:20 EET" duration-ms="45564">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T23:17:35 EET" name="Default test" finished-at="2023-02-16T23:18:20 EET" duration-ms="45564">
+      <class name="MainClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MainClass@6622a690]" started-at="2023-02-16T23:17:35 EET" name="setup" finished-at="2023-02-16T23:17:37 EET" duration-ms="2573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOWEST_PRICE()[pri:0, instance:MainClass@6622a690]" started-at="2023-02-16T23:17:37 EET" name="LOWEST_PRICE" finished-at="2023-02-16T23:18:20 EET" duration-ms="42952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LOWEST_PRICE -->
+      </class> <!-- MainClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
